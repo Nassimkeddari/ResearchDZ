@@ -1,0 +1,5 @@
+{
+  "name": "ResearchDZ",
+  "description": "An AI-powered academic research assistant that retrieves article summaries, analyzes methodologies, maps theoretical frameworks, and identifies research gaps using the Gemini API.",
+  "requestFramePermissions": []
+}
